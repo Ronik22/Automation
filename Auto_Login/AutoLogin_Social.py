@@ -1,5 +1,4 @@
 # Python code for auto login into facebook, instagram and twitter
-# tested successful for facebook and instagram 
 
 from selenium import webdriver      # selenium should be installed
 from selenium.webdriver.common.keys import Keys

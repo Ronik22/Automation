@@ -1,4 +1,4 @@
-# Script to send bulk messages to people. A condition with an alternative message can be added if needed
+# Script to send bulk messages to people. A condition with an alternate message can be added if needed
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys

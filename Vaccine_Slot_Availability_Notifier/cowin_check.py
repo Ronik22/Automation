@@ -89,6 +89,6 @@ Dose 1:  {firstdoselist_len} Centre/s.
 Dose 2:  {seconddoselist_len} Centre/s.
 Check respective text files for more details...
 """,
-        app_name="Vaccine Centre Notifier using by Ronik", 
+        app_name="Vaccine Centre Notifier by Ronik", 
         timeout=10
     )
